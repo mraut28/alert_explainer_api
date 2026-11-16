@@ -1,0 +1,1 @@
+"""Django alert API application."""
